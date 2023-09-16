@@ -1,0 +1,3 @@
+Hello World, nama saya Rifqi 
+
+Sekarang saya sedang belajar git dan github dari Digital Skola
